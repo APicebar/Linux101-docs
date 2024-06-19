@@ -2,6 +2,30 @@
 icon: material/hand-wave-outline
 ---
 
+# 欢迎前的前言 By APicebar
+
+总算是折腾完了.jpg
+
+本教程基于 LUG@USTC 的版本构建并部署，旨在让 CUMTB 的 CS 学生们更好的接触和学习 Linux。
+
+------------
+
+当初我听到 CUMTB 的 CS 教程是不教 Linux 的，我实际上很是震惊：
+
+这年头只要出去干活，有什么东西绕的开 Linux？
+
+以及大家看到 Linux 觉得这是什么很神秘很难的东西，实际上你主动学习它并不是很难，而且 CS 学生应该会与它有很多不可避免的接触：世界上绝大多数服务器跑的都是 Linux，绝大多数你用的服务都基于 Linux 开发。
+
+学习 Linux 更像是在你校破烂的 CS 培养计划上打点补丁（笑
+
+总之，折腾了一晚上服务器，我该睡觉了。
+
+感谢中科大 Linux 用户组的各位写出的教材，感谢你们愿意阅读并开始学习 Linux。
+
+Now, enjoy your learning!
+
+APicebar @ 19 Jun 2024
+
 # 欢迎
 
 !!! success "本文已完稿并通过审阅，是正式版本。"
