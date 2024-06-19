@@ -20,11 +20,13 @@ icon: material/hand-wave-outline
 
 总之，折腾了一晚上服务器，我该睡觉了。
 
-感谢中科大 Linux 用户组的各位写出的教材，感谢你们愿意阅读并开始学习 Linux。
+感谢中科大 Linux 用户组的各位写出的教材，感谢你们愿意阅读并开始学习 Linux，感谢 rzx 帮我在计科范围内宣传。
+
+如果有任何疑问，欢迎通过邮箱 apicebar@qq.com 联系我。
 
 Now, enjoy your learning!
 
-APicebar @ 19 Jun 2024
+APicebar @ 20 Jun 2024
 
 # 欢迎
 
